@@ -1,0 +1,6 @@
+Considerando que sejam a sala A,B, C. Eu iria começar ligando um dos interruptores e ir a sala A, 
+depois de um tempo voltar desligar o interruptor que tinha ascendido, ascender mais um e se dirigir 
+a sala C. Caso não asçenda eu posso checar se a lampada esta quente e correlacionar com o interruptor anterior.
+
+
+
